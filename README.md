@@ -3,10 +3,10 @@
 ## For collecting Real Time tweets on Donald Trump we have used the Twitter Streaming API.
 
 This program has four python files namely: 
-	- collect
-	- cluster
-	- classify
-	- summarize.
+- collect
+- cluster
+- classify
+- summarize.
 
 
 ## The functionality of each of the sections of the program has been defined below:
